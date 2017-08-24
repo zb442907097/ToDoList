@@ -1,0 +1,3 @@
+<TextView android:id="@+id/tv_name"
+    style="@style/Bar"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
